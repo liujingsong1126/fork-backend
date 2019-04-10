@@ -19,3 +19,6 @@
 [submodule "java/spring-framework"]
 	path = java/spring-framework
 	url = https://github.com/spring-projects/spring-framework
+[submodule "java/ansj_seg"]
+	path = java/ansj_seg
+	url = https://github.com/lanxuezaipiao/ansj_seg.git
