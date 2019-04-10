@@ -7,3 +7,6 @@
 [submodule "java/spring-boot"]
 	path = java/spring-boot
 	url = https://github.com/spring-projects/spring-boot
+[submodule "java/paascloud-config-repo"]
+	path = java/paascloud-config-repo
+	url = https://github.com/paascloud/paascloud-config-repo
