@@ -13,3 +13,6 @@
 [submodule "java/SpringcloudConfig"]
 	path = java/SpringcloudConfig
 	url = https://github.com/forezp/SpringcloudConfig.git
+[submodule "java/p3c"]
+	path = java/p3c
+	url = https://github.com/alibaba/p3c
