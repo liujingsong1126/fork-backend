@@ -16,3 +16,6 @@
 [submodule "java/p3c"]
 	path = java/p3c
 	url = https://github.com/alibaba/p3c
+[submodule "java/spring-framework"]
+	path = java/spring-framework
+	url = https://github.com/spring-projects/spring-framework
