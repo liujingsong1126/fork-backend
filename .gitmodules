@@ -4,3 +4,6 @@
 [submodule "java/paascloud-master"]
 	path = java/paascloud-master
 	url = https://github.com/paascloud/paascloud-master
+[submodule "java/spring-boot"]
+	path = java/spring-boot
+	url = https://github.com/spring-projects/spring-boot
