@@ -10,3 +10,6 @@
 [submodule "java/paascloud-config-repo"]
 	path = java/paascloud-config-repo
 	url = https://github.com/paascloud/paascloud-config-repo
+[submodule "java/SpringcloudConfig"]
+	path = java/SpringcloudConfig
+	url = https://github.com/forezp/SpringcloudConfig.git
